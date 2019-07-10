@@ -1,4 +1,4 @@
-# LDS 
+# LDS-GNN
 
 This is the accompany python package for 
 the ICML 2019 paper [_Learning Discrete Structures for Graph Neural Networks_](https://arxiv.org/abs/1903.11960)
