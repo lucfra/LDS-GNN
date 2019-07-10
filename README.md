@@ -6,8 +6,8 @@ the ICML 2019 paper [_Learning Discrete Structures for Graph Neural Networks_](h
 It implements the method __LDS__ and its variant __KNN-LDS__ and reproduces experiments reported in the 
 paper.
 
-![Alt text](illustration method.PNG?raw=true 
-"Representation of our approach for learning discrete graph structures for GNNs.")
+![alt text](https://github.com/lucfra/LDS-GNN/blob/master/illustration%20method.PNG 
+"A cartoon of our approach for learning graph structures for graph neural networks")
 
 ### Requirements
 
