@@ -6,7 +6,7 @@
 #             Xiao He
 #             Mathias Niepert (mathias.niepert@neclab.eu)
 #
-# NEC Laboratories Europe GmbH, Copyright (c) <year>, All rights reserved.
+# NEC Laboratories Europe GmbH, Copyright (c) 2019, All rights reserved.
 #
 #        THIS HEADER MAY NOT BE EXTRACTED OR MODIFIED IN ANY WAY.
 #
