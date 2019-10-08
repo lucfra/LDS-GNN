@@ -20,9 +20,9 @@ packages
 
 ##### Datasets
 
-UCI datasets should be loaded automatically, while graph-based datasets (Cora and Citeseer) should be downloaded and
-included in the `lds/data` folder.
-FMA dataset should also be downloaded, please email the authors if interested.
+UCI datasets should be loaded automatically, while graph-based datasets (Cora and Citeseer) are included in the `GCN` package, available [here](https://github.com/tkipf/gcn). Place the relevant files in the folder `lds/data`.
+
+FMA dataset (we used the `small` version) should also be downloaded, please email the authors if interested.
 
 ### Installation (optional)
 
