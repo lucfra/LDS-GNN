@@ -401,7 +401,9 @@ if __name__ == '__main__':
     parser.add_argument('-s', default=1, type=int,
                         help='The random seed. Default: 1')
     parser.add_argument('-e', default=50, type=int,
-                        help='The percentage of missing edges (valid only for cora and citeseer dataset): Default 50')
+                        help='The percentage of missing edges (valid only for cora and citeseer dataset): Default 50. - ' +  
+                        'PLEASE NOTE THAT the x-axes of Fig. 2  in the paper reports the percentage of retained edges rather ' +
+                        'than that of missing edges.')
     args = parser.parse_args()
 
     _data, _method, _seed, _missing_percentage = args.d, args.m, args.s, args.e/100
